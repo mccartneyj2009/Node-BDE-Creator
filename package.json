@@ -1,0 +1,16 @@
+{
+  "name": "create_eweb_bde_objects",
+  "version": "1.0.0",
+  "main": "connection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "description": ""
+}
